@@ -1,0 +1,3 @@
+# grok-connector-test
+
+Initializing repository...
